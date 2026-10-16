@@ -2,7 +2,7 @@
 
 A calm, themeable Pomodoro timer with a built-in task list — one HTML file, no install, no account.
 
-Open `index.html` in a browser and start focusing.
+Open https://whoisclownhere.github.io/pomidoro/ in a browser and start focusing.
 
 ---
 
