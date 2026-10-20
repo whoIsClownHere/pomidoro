@@ -19,6 +19,7 @@ Open https://whoisclownhere.github.io/pomidoro/ in a browser and start focusing.
 - Optional auto-start: focus → break → focus without pressing Start
 - "Completed" counts only fully finished focus sessions; it survives a reload but starts from zero on a new visit
 - The time can't be edited while a timer is started
+- While the timer runs, the mode tabs, task button, keyboard hints, Theme and Settings buttons fade away until you pause, and the clock slides into the Settings button's place (can be turned off in Settings → Timer)
 
 **Tasks**
 - Add tasks one per line, check them off, edit them, and drag to reorder
@@ -36,7 +37,7 @@ Open https://whoisclownhere.github.io/pomidoro/ in a browser and start focusing.
 | Theme | Look |
 |---|---|
 | **Classic** | Clean, warm and calm. The colors shift with each mode. |
-| **Panther** | Classic in black and white with heavy type. The button color is yours to pick. |
+| **Black** | Classic in black and white with heavy type. The button color is yours to pick. |
 | **Hacker** | A terminal console with phosphor glow. |
 | **Rose Scrapbook** | A pink collage of paper notes, tape, a bow, blossoms and lilies. |
 | **Blossom Doodle** | Cherry blossoms and lilies with white doodles. |

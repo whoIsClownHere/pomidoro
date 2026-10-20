@@ -114,3 +114,4 @@ label.set-row{cursor:pointer}
 .pv-panther .pv-classic__digits{color:#f5f5f7;font-weight:800}
 .pv-panther .pv-classic__bar{background:#2c2c2e}
 .pv-panther .pv-classic__btn{color:#000}
+.app[data-zen] .modes,.app[data-zen] .tasks-cta,.app[data-zen] .hints,.app[data-zen] .theme-btn{opacity:0!important;visibility:hidden!important;transition:opacity .7s ease,visibility 0s linear .7s!important}.topbar__right>.icon-btn{transition:width .5s ease,margin .5s ease,opacity .35s ease,border-width .5s ease}.app[data-zen] .topbar__right>.icon-btn{width:0!important;padding:0;margin-left:-12px;border-width:0!important;opacity:0;overflow:hidden;visibility:hidden;transition:width .5s ease,margin .5s ease,opacity .35s ease,border-width .5s ease,visibility 0s linear .5s}.topbar__right>.amb-chip{order:-1}@media (max-width:640px){.app[data-zen] .clock--narrow{display:none}.app[data-zen] .clock--wide{display:flex}.app[data-zen] .topbar__right>.icon-btn{margin-left:-8px}}
